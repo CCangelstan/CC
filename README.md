@@ -4,4 +4,8 @@
 ## 第二步
 ![代码源](https://www.zybuluo.com/static/img/logo.png)
 
-复制图片中三部分的代码，在pycharm项目中分别创建文件
+复制图片中两部分的代码，在pycharm项目中分别创建文件
+
+## 第三步
+
+运行，扫码
